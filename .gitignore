@@ -1,0 +1,17 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and caches
+*.log
+__pycache__/
+node_modules/
+
+# Local environment files
+.env
+.venv/
